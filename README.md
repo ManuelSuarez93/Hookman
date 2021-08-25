@@ -4,8 +4,8 @@ Top-down puzzle and adventure game in which Robert Hooke, a scientist accused of
 
 Authors:
 
-Manuel Suarez - Development, Audio /n
-Martin Palermo - Development /n
+Manuel Suarez - Development, Audio
+Martin Palermo - Development 
 Agustin Ferreira - Art
 
 
